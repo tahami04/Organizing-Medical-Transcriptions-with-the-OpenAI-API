@@ -31,11 +31,10 @@ This project aims to:
 
 ```
 .
-├── notebook.ipynb             # Main notebook containing the implementation
+├── OptimizingMedicalRecord.ipynb             # Main notebook containing the implementation
 ├── data/
 │   └── transcriptions.csv     # Input dataset (anonymized)
 ├── README.md                  # Project documentation
-├── .gitignore                 # Ignore unnecessary files
 ```
 
 ---
@@ -98,7 +97,7 @@ cd medical-transcription-structuring
 2. Open the notebook:
 
 ```bash
-jupyter notebook notebook.ipynb
+jupyter notebook OptimizingMedicalRecord.ipynb
 ```
 
 3. Run all cells to:
