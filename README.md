@@ -32,8 +32,7 @@ This project aims to:
 ```
 .
 ├── OptimizingMedicalRecord.ipynb             # Main notebook containing the implementation
-├── data/
-│   └── transcriptions.csv     # Input dataset (anonymized)
+├── transcriptions.csv     # Input dataset (anonymized)
 ├── README.md                  # Project documentation
 ```
 
