@@ -89,7 +89,7 @@ client = OpenAI(api_key=api_key)
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/yourusername/medical-transcription-structuring.git
+git clone https://github.com/tahami04/Organizing-Medical-Transcriptions-with-the-OpenAI-API
 cd medical-transcription-structuring
 ```
 
